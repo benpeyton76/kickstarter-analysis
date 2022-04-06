@@ -1,5 +1,4 @@
-# kickstarter-analysis
-Module 1 Challenge
+# Kickstarter Analysis
 
 ## Overview of Project
 The overview of this project is to learn how to decipher raw data in Excel. By learning how to use tools such as using filters, pivot tables, and applying statistical tools we are able to represent an overview of data, and using these tools to break down data to show specific aspects of the data set. We learned some basic and more advanced techniques to derive this data from the original Kickstarter worksheet.
