@@ -21,7 +21,7 @@ Outcomes based on campaign goals showed that there is a correlation between the 
 ### ***Challenges and Difficulties Encountered:***
 I found that the most challenging part of this module/activity was just simply making sure the formulas were correct and consistent with the data I was attempting to represent. From my perspective, repetition is the greatest tool to learn new concepts. I did enjoy learning new ways to perform tasks that I have been doing for years in Excel.
 
-## ***Results***
+## ***Results:***
 In the Launch Date data, it showed that campaigns started in the warmer months historically tend to be more successful. It also showed that no matter how many campaigns are started, some will fail or be cancelled. The more campaigns launched, the more some will fail. 
 
 The data regarding campaigns based on goals show there is a direct correlation between the percentage of successful and failed campaigns based on dollar amounts donated during the campaign. 
